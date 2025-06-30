@@ -23,7 +23,7 @@ This repository contains a curated collection of my data science projects, demon
 
 | Project | Description | Tools Used | Link |
 |--------|-------------|-------------|------|
-| **🇹🇼 Taiwan Bankruptcy Prediction** | Machine learning model to predict corporate bankruptcy in Taiwan using financial indicators. Includes data wrangling, class balancing, model evaluation and interpretation. | Python, Scikit-learn, Pandas | [🔗 View Repository]([https://github.com/MarcosDeLaCruz/taiwan-bankruptcy-analysis](https://github.com/MarcosDeLaCruz/Taiwan_Bankruptcy)) |
+| **🇹🇼 Taiwan Bankruptcy Prediction** | Machine learning model to predict corporate bankruptcy in Taiwan using financial indicators. Includes data wrangling, class balancing, model evaluation and interpretation. | Python, Scikit-learn, Pandas | [🔗 View Repository]([https://github.com/MarcosDeLaCruz/taiwan-bankruptcy-analysis](https://github.com/MarcosDeLaCruz/Taiwan_Bankruptcy) |
 
 ---
 
